@@ -1,0 +1,532 @@
+Random seed = 3810743
+First card: 4 of Diamonds
+
+----------------------------
+Player 0 has:
+   7 of Clubs
+   4 of Spades
+   5 of Hearts
+   Jack of Clubs
+   Queen of Hearts
+----------------------------
+Player 1 has:
+   Queen of Diamonds
+   Ace of Spades
+   3 of Diamonds
+   2 of Diamonds
+   Queen of Clubs
+----------------------------
+Player 2 has:
+   7 of Spades
+   6 of Hearts
+   2 of Spades
+   10 of Hearts
+   7 of Diamonds
+----------------------------
+Player 3 has:
+   Queen of Spades
+   9 of Spades
+   5 of Spades
+   9 of Clubs
+   3 of Spades
+----------------------------
+
+Player 0 plays 4 of Spades
+
+----------------------------
+Player 0 has:
+   7 of Clubs
+   Queen of Hearts
+   5 of Hearts
+   Jack of Clubs
+----------------------------
+Player 1 has:
+   Queen of Diamonds
+   Ace of Spades
+   3 of Diamonds
+   2 of Diamonds
+   Queen of Clubs
+----------------------------
+Player 2 has:
+   7 of Spades
+   6 of Hearts
+   2 of Spades
+   10 of Hearts
+   7 of Diamonds
+----------------------------
+Player 3 has:
+   Queen of Spades
+   9 of Spades
+   5 of Spades
+   9 of Clubs
+   3 of Spades
+----------------------------
+
+Player 1 plays Ace of Spades
+
+----------------------------
+Player 0 has:
+   7 of Clubs
+   Queen of Hearts
+   5 of Hearts
+   Jack of Clubs
+----------------------------
+Player 1 has:
+   Queen of Diamonds
+   Queen of Clubs
+   3 of Diamonds
+   2 of Diamonds
+----------------------------
+Player 2 has:
+   7 of Spades
+   6 of Hearts
+   2 of Spades
+   10 of Hearts
+   7 of Diamonds
+----------------------------
+Player 3 has:
+   Queen of Spades
+   9 of Spades
+   5 of Spades
+   9 of Clubs
+   3 of Spades
+----------------------------
+
+Player 2 plays 7 of Spades
+
+----------------------------
+Player 0 has:
+   7 of Clubs
+   Queen of Hearts
+   5 of Hearts
+   Jack of Clubs
+----------------------------
+Player 1 has:
+   Queen of Diamonds
+   Queen of Clubs
+   3 of Diamonds
+   2 of Diamonds
+----------------------------
+Player 2 has:
+   7 of Diamonds
+   6 of Hearts
+   2 of Spades
+   10 of Hearts
+----------------------------
+Player 3 has:
+   Queen of Spades
+   9 of Spades
+   5 of Spades
+   9 of Clubs
+   3 of Spades
+----------------------------
+
+Player 3 plays Queen of Spades
+
+----------------------------
+Player 0 has:
+   7 of Clubs
+   Queen of Hearts
+   5 of Hearts
+   Jack of Clubs
+----------------------------
+Player 1 has:
+   Queen of Diamonds
+   Queen of Clubs
+   3 of Diamonds
+   2 of Diamonds
+----------------------------
+Player 2 has:
+   7 of Diamonds
+   6 of Hearts
+   2 of Spades
+   10 of Hearts
+----------------------------
+Player 3 has:
+   3 of Spades
+   9 of Spades
+   5 of Spades
+   9 of Clubs
+----------------------------
+
+Player 0 plays Queen of Hearts
+
+----------------------------
+Player 0 has:
+   7 of Clubs
+   Jack of Clubs
+   5 of Hearts
+----------------------------
+Player 1 has:
+   Queen of Diamonds
+   Queen of Clubs
+   3 of Diamonds
+   2 of Diamonds
+----------------------------
+Player 2 has:
+   7 of Diamonds
+   6 of Hearts
+   2 of Spades
+   10 of Hearts
+----------------------------
+Player 3 has:
+   3 of Spades
+   9 of Spades
+   5 of Spades
+   9 of Clubs
+----------------------------
+
+Player 1 plays Queen of Diamonds
+
+----------------------------
+Player 0 has:
+   7 of Clubs
+   Jack of Clubs
+   5 of Hearts
+----------------------------
+Player 1 has:
+   2 of Diamonds
+   Queen of Clubs
+   3 of Diamonds
+----------------------------
+Player 2 has:
+   7 of Diamonds
+   6 of Hearts
+   2 of Spades
+   10 of Hearts
+----------------------------
+Player 3 has:
+   3 of Spades
+   9 of Spades
+   5 of Spades
+   9 of Clubs
+----------------------------
+
+Player 2 plays 7 of Diamonds
+
+----------------------------
+Player 0 has:
+   7 of Clubs
+   Jack of Clubs
+   5 of Hearts
+----------------------------
+Player 1 has:
+   2 of Diamonds
+   Queen of Clubs
+   3 of Diamonds
+----------------------------
+Player 2 has:
+   10 of Hearts
+   6 of Hearts
+   2 of Spades
+----------------------------
+Player 3 has:
+   3 of Spades
+   9 of Spades
+   5 of Spades
+   9 of Clubs
+----------------------------
+
+Player 3 draws a card: 10 of Diamonds
+Player 3 plays 10 of Diamonds
+
+----------------------------
+Player 0 has:
+   7 of Clubs
+   Jack of Clubs
+   5 of Hearts
+----------------------------
+Player 1 has:
+   2 of Diamonds
+   Queen of Clubs
+   3 of Diamonds
+----------------------------
+Player 2 has:
+   10 of Hearts
+   6 of Hearts
+   2 of Spades
+----------------------------
+Player 3 has:
+   3 of Spades
+   9 of Spades
+   5 of Spades
+   9 of Clubs
+----------------------------
+
+Player 0 draws a card: Ace of Hearts
+Player 0 draws a card: 6 of Diamonds
+Player 0 plays 6 of Diamonds
+
+----------------------------
+Player 0 has:
+   7 of Clubs
+   Jack of Clubs
+   5 of Hearts
+   Ace of Hearts
+----------------------------
+Player 1 has:
+   2 of Diamonds
+   Queen of Clubs
+   3 of Diamonds
+----------------------------
+Player 2 has:
+   10 of Hearts
+   6 of Hearts
+   2 of Spades
+----------------------------
+Player 3 has:
+   3 of Spades
+   9 of Spades
+   5 of Spades
+   9 of Clubs
+----------------------------
+
+Player 1 plays 2 of Diamonds
+
+----------------------------
+Player 0 has:
+   7 of Clubs
+   Jack of Clubs
+   5 of Hearts
+   Ace of Hearts
+----------------------------
+Player 1 has:
+   3 of Diamonds
+   Queen of Clubs
+----------------------------
+Player 2 has:
+   10 of Hearts
+   6 of Hearts
+   2 of Spades
+----------------------------
+Player 3 has:
+   3 of Spades
+   9 of Spades
+   5 of Spades
+   9 of Clubs
+----------------------------
+
+Player 2 plays 2 of Spades
+
+----------------------------
+Player 0 has:
+   7 of Clubs
+   Jack of Clubs
+   5 of Hearts
+   Ace of Hearts
+----------------------------
+Player 1 has:
+   3 of Diamonds
+   Queen of Clubs
+----------------------------
+Player 2 has:
+   10 of Hearts
+   6 of Hearts
+----------------------------
+Player 3 has:
+   3 of Spades
+   9 of Spades
+   5 of Spades
+   9 of Clubs
+----------------------------
+
+Player 3 plays 3 of Spades
+
+----------------------------
+Player 0 has:
+   7 of Clubs
+   Jack of Clubs
+   5 of Hearts
+   Ace of Hearts
+----------------------------
+Player 1 has:
+   3 of Diamonds
+   Queen of Clubs
+----------------------------
+Player 2 has:
+   10 of Hearts
+   6 of Hearts
+----------------------------
+Player 3 has:
+   9 of Clubs
+   9 of Spades
+   5 of Spades
+----------------------------
+
+Player 0 draws a card: 10 of Spades
+Player 0 plays 10 of Spades
+
+----------------------------
+Player 0 has:
+   7 of Clubs
+   Jack of Clubs
+   5 of Hearts
+   Ace of Hearts
+----------------------------
+Player 1 has:
+   3 of Diamonds
+   Queen of Clubs
+----------------------------
+Player 2 has:
+   10 of Hearts
+   6 of Hearts
+----------------------------
+Player 3 has:
+   9 of Clubs
+   9 of Spades
+   5 of Spades
+----------------------------
+
+Player 1 draws a card: 3 of Clubs
+Player 1 draws a card: 6 of Spades
+Player 1 plays 6 of Spades
+
+----------------------------
+Player 0 has:
+   7 of Clubs
+   Jack of Clubs
+   5 of Hearts
+   Ace of Hearts
+----------------------------
+Player 1 has:
+   3 of Diamonds
+   Queen of Clubs
+   3 of Clubs
+----------------------------
+Player 2 has:
+   10 of Hearts
+   6 of Hearts
+----------------------------
+Player 3 has:
+   9 of Clubs
+   9 of Spades
+   5 of Spades
+----------------------------
+
+Player 2 plays 6 of Hearts
+Player 2 has one card left!
+
+----------------------------
+Player 0 has:
+   7 of Clubs
+   Jack of Clubs
+   5 of Hearts
+   Ace of Hearts
+----------------------------
+Player 1 has:
+   3 of Diamonds
+   Queen of Clubs
+   3 of Clubs
+----------------------------
+Player 2 has:
+   10 of Hearts
+----------------------------
+Player 3 has:
+   9 of Clubs
+   9 of Spades
+   5 of Spades
+----------------------------
+
+Player 3 draws a card: King of Diamonds
+Player 3 draws a card: Jack of Diamonds
+Player 3 draws a card: 10 of Clubs
+Player 3 draws a card: 4 of Clubs
+Player 3 draws a card: Ace of Diamonds
+Player 3 draws a card: 8 of Clubs
+Player 3 draws a card: 8 of Spades
+Player 3 draws a card: Jack of Spades
+Player 3 draws a card: 9 of Hearts
+Player 3 plays 9 of Hearts
+
+----------------------------
+Player 0 has:
+   7 of Clubs
+   Jack of Clubs
+   5 of Hearts
+   Ace of Hearts
+----------------------------
+Player 1 has:
+   3 of Diamonds
+   Queen of Clubs
+   3 of Clubs
+----------------------------
+Player 2 has:
+   10 of Hearts
+----------------------------
+Player 3 has:
+   9 of Clubs
+   9 of Spades
+   5 of Spades
+   King of Diamonds
+   Jack of Diamonds
+   10 of Clubs
+   4 of Clubs
+   Ace of Diamonds
+   8 of Clubs
+   8 of Spades
+   Jack of Spades
+----------------------------
+
+Player 0 plays 5 of Hearts
+
+----------------------------
+Player 0 has:
+   7 of Clubs
+   Jack of Clubs
+   Ace of Hearts
+----------------------------
+Player 1 has:
+   3 of Diamonds
+   Queen of Clubs
+   3 of Clubs
+----------------------------
+Player 2 has:
+   10 of Hearts
+----------------------------
+Player 3 has:
+   9 of Clubs
+   9 of Spades
+   5 of Spades
+   King of Diamonds
+   Jack of Diamonds
+   10 of Clubs
+   4 of Clubs
+   Ace of Diamonds
+   8 of Clubs
+   8 of Spades
+   Jack of Spades
+----------------------------
+
+Player 1 draws a card: 8 of Hearts
+Player 1 plays 8 of Hearts
+
+----------------------------
+Player 0 has:
+   7 of Clubs
+   Jack of Clubs
+   Ace of Hearts
+----------------------------
+Player 1 has:
+   3 of Diamonds
+   Queen of Clubs
+   3 of Clubs
+----------------------------
+Player 2 has:
+   10 of Hearts
+----------------------------
+Player 3 has:
+   9 of Clubs
+   9 of Spades
+   5 of Spades
+   King of Diamonds
+   Jack of Diamonds
+   10 of Clubs
+   4 of Clubs
+   Ace of Diamonds
+   8 of Clubs
+   8 of Spades
+   Jack of Spades
+----------------------------
+
+Player 2 plays 10 of Hearts
+Player 2 wins!

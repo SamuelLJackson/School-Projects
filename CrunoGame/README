@@ -1,0 +1,6 @@
+This program is the implementation of a card game simulator.  The card game
+is a made up one called Cruno (a hybrid of crazy eights and UNO).
+
+to run a sample game:
+make
+make run
