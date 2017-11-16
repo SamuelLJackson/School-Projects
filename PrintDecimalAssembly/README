@@ -1,0 +1,8 @@
+This program takes in numeric input and prints a string representation
+to the console, using ASM assembly language.
+
+
+
+to run:
+make
+make run
