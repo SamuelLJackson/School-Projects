@@ -1,0 +1,2101 @@
+./driver.out 
+Random seed set to : 1481073554821
+
+pinball.find(words[200]): (should be 0): 0
+Hash if full!
+I say good fellow, you've gone out of range!
+I say good fellow, you've gone out of range!
+Ejection Limit Reached
+Elapsed time = 33.995 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2270
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1751
+   average hits to primary slots         = 1.2964
+   maximum hits to primary slots         = 23
+   total number of ejections             = 23
+   Maximum ejections in single insertion = 20
+
+Elapsed time = 30.995 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2500
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1882
+   average hits to primary slots         = 1.32837
+   maximum hits to primary slots         = 4
+   total number of ejections             = 3
+   Maximum ejections in single insertion = 1
+
+Elapsed time = 30.995 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2500
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1890
+   average hits to primary slots         = 1.32275
+   maximum hits to primary slots         = 4
+   total number of ejections             = 8
+   Maximum ejections in single insertion = 2
+
+Ejection Limit Reached
+Elapsed time = 28.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2386
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1795
+   average hits to primary slots         = 1.32925
+   maximum hits to primary slots         = 25
+   total number of ejections             = 23
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 26.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2219
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1717
+   average hits to primary slots         = 1.29237
+   maximum hits to primary slots         = 25
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 29.995 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2478
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1862
+   average hits to primary slots         = 1.33083
+   maximum hits to primary slots         = 23
+   total number of ejections             = 25
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 27.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2409
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1829
+   average hits to primary slots         = 1.31711
+   maximum hits to primary slots         = 24
+   total number of ejections             = 25
+   Maximum ejections in single insertion = 20
+
+Elapsed time = 28.995 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2500
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1852
+   average hits to primary slots         = 1.34989
+   maximum hits to primary slots         = 4
+   total number of ejections             = 2
+   Maximum ejections in single insertion = 1
+
+Elapsed time = 29.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2500
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1851
+   average hits to primary slots         = 1.35062
+   maximum hits to primary slots         = 6
+   total number of ejections             = 7
+   Maximum ejections in single insertion = 2
+
+Ejection Limit Reached
+Elapsed time = 22.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 1946
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1549
+   average hits to primary slots         = 1.25629
+   maximum hits to primary slots         = 23
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 30.995 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2494
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1829
+   average hits to primary slots         = 1.36359
+   maximum hits to primary slots         = 24
+   total number of ejections             = 22
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 29.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2489
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1878
+   average hits to primary slots         = 1.32535
+   maximum hits to primary slots         = 23
+   total number of ejections             = 26
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 42.994 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2783
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 2032
+   average hits to primary slots         = 1.36959
+   maximum hits to primary slots         = 23
+   total number of ejections             = 31
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 48.992 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2346
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1792
+   average hits to primary slots         = 1.30915
+   maximum hits to primary slots         = 23
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 41.994 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2031
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1605
+   average hits to primary slots         = 1.26542
+   maximum hits to primary slots         = 25
+   total number of ejections             = 22
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 26.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 1401
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1208
+   average hits to primary slots         = 1.15977
+   maximum hits to primary slots         = 24
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 38.994 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2173
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1711
+   average hits to primary slots         = 1.27002
+   maximum hits to primary slots         = 24
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 30.995 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2549
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1934
+   average hits to primary slots         = 1.31799
+   maximum hits to primary slots         = 24
+   total number of ejections             = 26
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 28.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2346
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1788
+   average hits to primary slots         = 1.31208
+   maximum hits to primary slots         = 24
+   total number of ejections             = 23
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 25.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2059
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1657
+   average hits to primary slots         = 1.24261
+   maximum hits to primary slots         = 23
+   total number of ejections             = 23
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 29.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2408
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1782
+   average hits to primary slots         = 1.35129
+   maximum hits to primary slots         = 24
+   total number of ejections             = 22
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 20.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 1700
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1425
+   average hits to primary slots         = 1.19298
+   maximum hits to primary slots         = 25
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 27.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2455
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1854
+   average hits to primary slots         = 1.32416
+   maximum hits to primary slots         = 23
+   total number of ejections             = 24
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 30.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2594
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1954
+   average hits to primary slots         = 1.32753
+   maximum hits to primary slots         = 23
+   total number of ejections             = 25
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 27.995 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2354
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1809
+   average hits to primary slots         = 1.30127
+   maximum hits to primary slots         = 24
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 29.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2502
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1854
+   average hits to primary slots         = 1.34951
+   maximum hits to primary slots         = 24
+   total number of ejections             = 25
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 14.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2295
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1761
+   average hits to primary slots         = 1.30324
+   maximum hits to primary slots         = 26
+   total number of ejections             = 26
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 12.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2660
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1981
+   average hits to primary slots         = 1.34276
+   maximum hits to primary slots         = 25
+   total number of ejections             = 24
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 8.999 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 1739
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1445
+   average hits to primary slots         = 1.20346
+   maximum hits to primary slots         = 24
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 13.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2826
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1977
+   average hits to primary slots         = 1.42944
+   maximum hits to primary slots         = 12
+   total number of ejections             = 35
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 11.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2451
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1869
+   average hits to primary slots         = 1.3114
+   maximum hits to primary slots         = 24
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 10.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2313
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1773
+   average hits to primary slots         = 1.30457
+   maximum hits to primary slots         = 23
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 10.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2322
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1769
+   average hits to primary slots         = 1.31261
+   maximum hits to primary slots         = 23
+   total number of ejections             = 22
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 8.999 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 1913
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1552
+   average hits to primary slots         = 1.2326
+   maximum hits to primary slots         = 23
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 10.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2091
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1644
+   average hits to primary slots         = 1.2719
+   maximum hits to primary slots         = 24
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 12.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2640
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1949
+   average hits to primary slots         = 1.35454
+   maximum hits to primary slots         = 22
+   total number of ejections             = 22
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 10.999 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2139
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1677
+   average hits to primary slots         = 1.27549
+   maximum hits to primary slots         = 23
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 10.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2148
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1674
+   average hits to primary slots         = 1.28315
+   maximum hits to primary slots         = 24
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 11.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2461
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1858
+   average hits to primary slots         = 1.32454
+   maximum hits to primary slots         = 24
+   total number of ejections             = 24
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 13.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2791
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1984
+   average hits to primary slots         = 1.40675
+   maximum hits to primary slots         = 25
+   total number of ejections             = 32
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 14.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2754
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 2006
+   average hits to primary slots         = 1.37288
+   maximum hits to primary slots         = 22
+   total number of ejections             = 30
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 10.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2148
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1679
+   average hits to primary slots         = 1.27933
+   maximum hits to primary slots         = 23
+   total number of ejections             = 23
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 11.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2422
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1869
+   average hits to primary slots         = 1.29588
+   maximum hits to primary slots         = 24
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 9.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2077
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1666
+   average hits to primary slots         = 1.2467
+   maximum hits to primary slots         = 24
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 5.000 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 1079
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 953
+   average hits to primary slots         = 1.13221
+   maximum hits to primary slots         = 25
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 11.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2227
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1721
+   average hits to primary slots         = 1.29402
+   maximum hits to primary slots         = 23
+   total number of ejections             = 23
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 13.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2745
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 2013
+   average hits to primary slots         = 1.36364
+   maximum hits to primary slots         = 24
+   total number of ejections             = 27
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 11.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2473
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1846
+   average hits to primary slots         = 1.33965
+   maximum hits to primary slots         = 23
+   total number of ejections             = 25
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 16.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 3167
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 2179
+   average hits to primary slots         = 1.45342
+   maximum hits to primary slots         = 24
+   total number of ejections             = 42
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 9.999 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 5003
+   size                                  = 2119
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 1671
+   average hits to primary slots         = 1.2681
+   maximum hits to primary slots         = 23
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Elapsed time = 24.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 5000
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3732
+   average hits to primary slots         = 1.33976
+   maximum hits to primary slots         = 5
+   total number of ejections             = 4
+   Maximum ejections in single insertion = 1
+
+Elapsed time = 24.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 5000
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3739
+   average hits to primary slots         = 1.33726
+   maximum hits to primary slots         = 5
+   total number of ejections             = 6
+   Maximum ejections in single insertion = 1
+
+Ejection Limit Reached
+Elapsed time = 19.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4039
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3225
+   average hits to primary slots         = 1.2524
+   maximum hits to primary slots         = 22
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 14.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 3104
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 2598
+   average hits to primary slots         = 1.19477
+   maximum hits to primary slots         = 24
+   total number of ejections             = 22
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 18.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 3878
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3116
+   average hits to primary slots         = 1.24454
+   maximum hits to primary slots         = 25
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 18.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 3964
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3185
+   average hits to primary slots         = 1.24458
+   maximum hits to primary slots         = 24
+   total number of ejections             = 22
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 19.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4170
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3313
+   average hits to primary slots         = 1.25868
+   maximum hits to primary slots         = 24
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 18.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 3828
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3084
+   average hits to primary slots         = 1.24125
+   maximum hits to primary slots         = 25
+   total number of ejections             = 22
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 20.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4235
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3370
+   average hits to primary slots         = 1.25668
+   maximum hits to primary slots         = 23
+   total number of ejections             = 22
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 22.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4654
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3566
+   average hits to primary slots         = 1.3051
+   maximum hits to primary slots         = 23
+   total number of ejections             = 27
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 20.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4242
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3336
+   average hits to primary slots         = 1.27158
+   maximum hits to primary slots         = 24
+   total number of ejections             = 22
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 19.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4125
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3274
+   average hits to primary slots         = 1.25993
+   maximum hits to primary slots         = 23
+   total number of ejections             = 22
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 27.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 5438
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3972
+   average hits to primary slots         = 1.36908
+   maximum hits to primary slots         = 26
+   total number of ejections             = 36
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 19.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4001
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3221
+   average hits to primary slots         = 1.24216
+   maximum hits to primary slots         = 25
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 11.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 2469
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 2149
+   average hits to primary slots         = 1.14891
+   maximum hits to primary slots         = 24
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 19.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 3894
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3140
+   average hits to primary slots         = 1.24013
+   maximum hits to primary slots         = 23
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 28.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 5640
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 4080
+   average hits to primary slots         = 1.38235
+   maximum hits to primary slots         = 23
+   total number of ejections             = 45
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 11.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 2385
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 2081
+   average hits to primary slots         = 1.14608
+   maximum hits to primary slots         = 23
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 14.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 3225
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 2722
+   average hits to primary slots         = 1.18479
+   maximum hits to primary slots         = 23
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 21.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4491
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3486
+   average hits to primary slots         = 1.2883
+   maximum hits to primary slots         = 24
+   total number of ejections             = 23
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 16.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 3366
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 2817
+   average hits to primary slots         = 1.19489
+   maximum hits to primary slots         = 23
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 15.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 3403
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 2874
+   average hits to primary slots         = 1.18406
+   maximum hits to primary slots         = 22
+   total number of ejections             = 22
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 24.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 5054
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3768
+   average hits to primary slots         = 1.3413
+   maximum hits to primary slots         = 23
+   total number of ejections             = 33
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 16.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 3641
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 2957
+   average hits to primary slots         = 1.23132
+   maximum hits to primary slots         = 23
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 15.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 3366
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 2808
+   average hits to primary slots         = 1.19872
+   maximum hits to primary slots         = 24
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 24.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4991
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3771
+   average hits to primary slots         = 1.32352
+   maximum hits to primary slots         = 24
+   total number of ejections             = 27
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 21.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4518
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3457
+   average hits to primary slots         = 1.30691
+   maximum hits to primary slots         = 23
+   total number of ejections             = 24
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 17.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 3723
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3008
+   average hits to primary slots         = 1.2377
+   maximum hits to primary slots         = 25
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 22.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4620
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3598
+   average hits to primary slots         = 1.28405
+   maximum hits to primary slots         = 23
+   total number of ejections             = 24
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 21.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4494
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3502
+   average hits to primary slots         = 1.28327
+   maximum hits to primary slots         = 13
+   total number of ejections             = 24
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 18.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4056
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3207
+   average hits to primary slots         = 1.26473
+   maximum hits to primary slots         = 24
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 22.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4758
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3612
+   average hits to primary slots         = 1.31728
+   maximum hits to primary slots         = 24
+   total number of ejections             = 25
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 20.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4283
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3380
+   average hits to primary slots         = 1.26716
+   maximum hits to primary slots         = 23
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 22.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4490
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3502
+   average hits to primary slots         = 1.28212
+   maximum hits to primary slots         = 24
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 24.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4871
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3642
+   average hits to primary slots         = 1.33745
+   maximum hits to primary slots         = 24
+   total number of ejections             = 24
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 22.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4631
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3514
+   average hits to primary slots         = 1.31787
+   maximum hits to primary slots         = 23
+   total number of ejections             = 27
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 23.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4351
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3429
+   average hits to primary slots         = 1.26888
+   maximum hits to primary slots         = 25
+   total number of ejections             = 24
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 18.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 3875
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3164
+   average hits to primary slots         = 1.22472
+   maximum hits to primary slots         = 23
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 17.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 3761
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3036
+   average hits to primary slots         = 1.2388
+   maximum hits to primary slots         = 24
+   total number of ejections             = 22
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 25.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 5104
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3790
+   average hits to primary slots         = 1.3467
+   maximum hits to primary slots         = 23
+   total number of ejections             = 34
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 22.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4503
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3496
+   average hits to primary slots         = 1.28804
+   maximum hits to primary slots         = 24
+   total number of ejections             = 24
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 24.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 5106
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3827
+   average hits to primary slots         = 1.3342
+   maximum hits to primary slots         = 24
+   total number of ejections             = 29
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 17.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 3798
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3079
+   average hits to primary slots         = 1.23352
+   maximum hits to primary slots         = 23
+   total number of ejections             = 22
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 15.998 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 3328
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 2751
+   average hits to primary slots         = 1.20974
+   maximum hits to primary slots         = 23
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 23.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4674
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3575
+   average hits to primary slots         = 1.30741
+   maximum hits to primary slots         = 23
+   total number of ejections             = 26
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 22.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4556
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3513
+   average hits to primary slots         = 1.2969
+   maximum hits to primary slots         = 23
+   total number of ejections             = 23
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 27.995 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 5084
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3752
+   average hits to primary slots         = 1.35501
+   maximum hits to primary slots         = 24
+   total number of ejections             = 30
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 22.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 4561
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3533
+   average hits to primary slots         = 1.29097
+   maximum hits to primary slots         = 23
+   total number of ejections             = 26
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 18.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 3646
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 2998
+   average hits to primary slots         = 1.21614
+   maximum hits to primary slots         = 23
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 27.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 10037
+   size                                  = 5338
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 3929
+   average hits to primary slots         = 1.35862
+   maximum hits to primary slots         = 26
+   total number of ejections             = 33
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 44.993 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 8396
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6654
+   average hits to primary slots         = 1.2618
+   maximum hits to primary slots         = 23
+   total number of ejections             = 26
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 46.993 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 8863
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6887
+   average hits to primary slots         = 1.28692
+   maximum hits to primary slots         = 22
+   total number of ejections             = 27
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 39.994 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 6953
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 5784
+   average hits to primary slots         = 1.20211
+   maximum hits to primary slots         = 23
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 65.990 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 9843
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 7415
+   average hits to primary slots         = 1.32744
+   maximum hits to primary slots         = 23
+   total number of ejections             = 40
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 50.992 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 9661
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 7342
+   average hits to primary slots         = 1.31585
+   maximum hits to primary slots         = 24
+   total number of ejections             = 33
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 37.994 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 7649
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6177
+   average hits to primary slots         = 1.2383
+   maximum hits to primary slots         = 23
+   total number of ejections             = 23
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 25.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 5465
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 4716
+   average hits to primary slots         = 1.15882
+   maximum hits to primary slots         = 23
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 24.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 5349
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 4669
+   average hits to primary slots         = 1.14564
+   maximum hits to primary slots         = 23
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 29.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 6125
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 5175
+   average hits to primary slots         = 1.18357
+   maximum hits to primary slots         = 24
+   total number of ejections             = 22
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 43.994 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 8499
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6686
+   average hits to primary slots         = 1.27116
+   maximum hits to primary slots         = 24
+   total number of ejections             = 25
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 32.995 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 6595
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 5488
+   average hits to primary slots         = 1.20171
+   maximum hits to primary slots         = 23
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 47.993 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 9211
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 7122
+   average hits to primary slots         = 1.29332
+   maximum hits to primary slots         = 25
+   total number of ejections             = 32
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 47.993 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 9489
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 7223
+   average hits to primary slots         = 1.31372
+   maximum hits to primary slots         = 24
+   total number of ejections             = 30
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 50.993 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 9850
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 7446
+   average hits to primary slots         = 1.32286
+   maximum hits to primary slots         = 22
+   total number of ejections             = 39
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 27.995 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 5813
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 4969
+   average hits to primary slots         = 1.16985
+   maximum hits to primary slots         = 24
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 42.994 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 8331
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6620
+   average hits to primary slots         = 1.25846
+   maximum hits to primary slots         = 24
+   total number of ejections             = 23
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 34.995 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 7118
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 5842
+   average hits to primary slots         = 1.21842
+   maximum hits to primary slots         = 24
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 24.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 5196
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 4543
+   average hits to primary slots         = 1.14374
+   maximum hits to primary slots         = 25
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 36.995 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 7495
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6080
+   average hits to primary slots         = 1.23273
+   maximum hits to primary slots         = 24
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 28.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 6233
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 5264
+   average hits to primary slots         = 1.18408
+   maximum hits to primary slots         = 24
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 47.993 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 9536
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 7299
+   average hits to primary slots         = 1.30648
+   maximum hits to primary slots         = 24
+   total number of ejections             = 37
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 42.994 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 8625
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6772
+   average hits to primary slots         = 1.27363
+   maximum hits to primary slots         = 23
+   total number of ejections             = 27
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 44.993 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 8764
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6829
+   average hits to primary slots         = 1.28335
+   maximum hits to primary slots         = 22
+   total number of ejections             = 26
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 43.993 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 8428
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6619
+   average hits to primary slots         = 1.2733
+   maximum hits to primary slots         = 24
+   total number of ejections             = 26
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 42.993 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 8550
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6717
+   average hits to primary slots         = 1.27289
+   maximum hits to primary slots         = 25
+   total number of ejections             = 26
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 37.994 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 7594
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6121
+   average hits to primary slots         = 1.24065
+   maximum hits to primary slots         = 23
+   total number of ejections             = 23
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 34.995 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 6815
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 5642
+   average hits to primary slots         = 1.2079
+   maximum hits to primary slots         = 23
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 37.994 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 7482
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6065
+   average hits to primary slots         = 1.23364
+   maximum hits to primary slots         = 23
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 39.994 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 8082
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6469
+   average hits to primary slots         = 1.24934
+   maximum hits to primary slots         = 24
+   total number of ejections             = 22
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 48.993 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 9660
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 7338
+   average hits to primary slots         = 1.31643
+   maximum hits to primary slots         = 23
+   total number of ejections             = 34
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 34.995 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 7019
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 5803
+   average hits to primary slots         = 1.20955
+   maximum hits to primary slots         = 23
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 35.994 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 7190
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 5870
+   average hits to primary slots         = 1.22487
+   maximum hits to primary slots         = 23
+   total number of ejections             = 24
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 23.997 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 4973
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 4357
+   average hits to primary slots         = 1.14138
+   maximum hits to primary slots         = 25
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 39.994 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 8106
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6500
+   average hits to primary slots         = 1.24708
+   maximum hits to primary slots         = 23
+   total number of ejections             = 23
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 51.992 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 9974
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 7495
+   average hits to primary slots         = 1.33075
+   maximum hits to primary slots         = 23
+   total number of ejections             = 40
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 43.993 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 8598
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6768
+   average hits to primary slots         = 1.27039
+   maximum hits to primary slots         = 24
+   total number of ejections             = 27
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 44.994 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 8829
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6897
+   average hits to primary slots         = 1.28012
+   maximum hits to primary slots         = 24
+   total number of ejections             = 28
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 46.993 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 9056
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 7028
+   average hits to primary slots         = 1.28856
+   maximum hits to primary slots         = 23
+   total number of ejections             = 27
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 33.995 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 6884
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 5723
+   average hits to primary slots         = 1.20287
+   maximum hits to primary slots         = 23
+   total number of ejections             = 22
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 40.994 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 7923
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6342
+   average hits to primary slots         = 1.24929
+   maximum hits to primary slots         = 23
+   total number of ejections             = 24
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 41.994 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 8340
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6625
+   average hits to primary slots         = 1.25887
+   maximum hits to primary slots         = 24
+   total number of ejections             = 25
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 24.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 5272
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 4574
+   average hits to primary slots         = 1.1526
+   maximum hits to primary slots         = 24
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 41.994 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 8256
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6552
+   average hits to primary slots         = 1.26007
+   maximum hits to primary slots         = 23
+   total number of ejections             = 24
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 27.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 5837
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 5022
+   average hits to primary slots         = 1.16229
+   maximum hits to primary slots         = 23
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 53.992 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 10261
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 7632
+   average hits to primary slots         = 1.34447
+   maximum hits to primary slots         = 24
+   total number of ejections             = 45
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 30.995 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 6235
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 5311
+   average hits to primary slots         = 1.17398
+   maximum hits to primary slots         = 24
+   total number of ejections             = 21
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 42.993 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 8328
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6588
+   average hits to primary slots         = 1.26412
+   maximum hits to primary slots         = 23
+   total number of ejections             = 22
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 26.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 5547
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 4797
+   average hits to primary slots         = 1.15635
+   maximum hits to primary slots         = 23
+   total number of ejections             = 23
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 43.993 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 8778
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 6875
+   average hits to primary slots         = 1.2768
+   maximum hits to primary slots         = 24
+   total number of ejections             = 27
+   Maximum ejections in single insertion = 20
+
+Ejection Limit Reached
+Elapsed time = 25.996 milliseconds
+Hash statistics report!
+   randomness level                      = pseudo-random
+   capacity                              = 20101
+   size                                  = 5412
+   degree                                = 7
+   ejection limit                        = 20
+   number of primary slots               = 4655
+   average hits to primary slots         = 1.16262
+   maximum hits to primary slots         = 24
+   total number of ejections             = 20
+   Maximum ejections in single insertion = 20
+
